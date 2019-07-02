@@ -1,0 +1,18 @@
+$font-stack:    Helvetica, sans-serif;
+$primary-color: rgb(207, 33, 33);
+
+body {
+  font: 100% $font-stack;
+  align-self: center
+}
+
+.heading {
+  color : $primary-color
+}
+
+.para{
+  color : $primary-color
+}
+.mainHead {
+  align-items: center
+}

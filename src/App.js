@@ -1,8 +1,6 @@
 import React from 'react';
-import logo from './logo.svg';
 import MainPage from '../src/Components/main'
-import './App.css';
-
+import '../src/StyleSheets/index.scss';
 function App() {
   return (
     <div className="App">
